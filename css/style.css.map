@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGA,sCAAsC;ACDtC,IAAI;EACH,UAAU,EAAE,IAAI;;AAKjB,sCAAsC",
+"sources": ["_header-catagory.scss","style.scss"],
+"names": [],
+"file": "style.css"
+}

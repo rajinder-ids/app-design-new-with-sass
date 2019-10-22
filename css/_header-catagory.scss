@@ -1,4 +1,31 @@
-body{
-	
+.tabs{
+	:nth-child(2):before {
+	  content: "\f108";
+	}
+	:nth-child(3):before {
+  	content: "\f0b1";
+	}
+	:nth-child(4):before {
+  	content: "\f015";
+	}
+	.indicator {
+  	display: none;
+	}
+	li:before {
+    content: "\f1b9";
+    font: normal normal normal 16px/1 FontAwesome;
+    position: absolute;
+    color: $primary-color;
+    position: absolute;
+    margin: 6px 0 0 -8px;
+  }
+	.tab a {
+	  padding: 10px 12px;
+	  color: $primary-color;
+	  font-weight: 600;
+	}
 }
+ 
+
+
 /*# sourceMappingURL=style.scss.map */
