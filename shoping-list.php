@@ -11,6 +11,7 @@
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
       <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
       <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+      <link href="css/custom.css" type="text/css" rel="stylesheet" media="screen,projection"/>
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
    </head>
    <body>
@@ -36,7 +37,7 @@
                      <h5>ITEMS(n)</h5>
                   </div>
                   <div class="col s6 m6 l6 right-align">
-                     <h5><small class="green-text">Select all</small>&nbsp; <small> Delete all</small></h5>
+                     <h5 class="select-all"><small class="green-text">Select all</small>&nbsp; <small> Delete all</small></h5>
                   </div>
                </div>
                <br>

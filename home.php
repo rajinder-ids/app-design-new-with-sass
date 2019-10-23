@@ -1580,8 +1580,6 @@
          // jQuery('.hide-menu').click(function($){
          //  jQuery('.categories-menu').hide('slow');
          // })
-
-         
       </script>
       <script src="js/init.js"></script>
       <script src="js/custom-jssor-slider.js"></script>

@@ -1,0 +1,37 @@
+%abc{
+  border: 0px;
+  background-color:$white-color;
+  color: $black-color;
+}
+.collapsible {
+
+ 	.collapsible-header {
+ 		border-radius: 4px 4px;
+ 		background-color:$white-color;
+ 		@extend %abc;
+	}
+	.collapsible-body{
+		padding: 0px 20px 20px;
+  		border-radius: 0px 0px 4px 4px;
+  		@extend %abc;
+	}
+	li .collapsible-header{
+		.caret{
+			color:$primary-color;
+		}
+	}
+	li.active .collapsible-header .caret {
+  		color: $primary-color;
+  		transform: rotate(-180deg);
+  		transform-origin: 0.6em 0.5em;
+	}
+	li.active .collapsible-header {
+		@extend %abc;
+	}
+}
+.upload-image {
+    margin-top: -26px;
+}
+
+
+/*# sourceMappingURL=style.scss.map */

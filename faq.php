@@ -11,6 +11,7 @@
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
       <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
       <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+       <link href="css/custom.css" type="text/css" rel="stylesheet" media="screen,projection"/>
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
       <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
    </head>
@@ -176,7 +177,7 @@
          <!-- Modal Structure -->
          <div class=" fadeInRight top-sheet fixed-notification-main">
             <div class="" style="position:relative;">
-               <h4 class="fixed-notification fade-out">Notification 2<i class="material-icons dp48"><a class="black-text">close</a></i></h4>
+               <h4 class="fixed-notification fade-out">Notification 2<i class="material-icons dp48"><a class="white-text">close</a></i></h4>
 
                <ul class="collection">
                   <li class="collection-item avatar">

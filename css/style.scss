@@ -1,5 +1,17 @@
 @import 'variable';
 @import 'header-catagory';
+@import 'faq';
+@import 'products-page';
+@import 'shoping-list';
+@import 'single-product';
+
+%header-bg {
+  color: #fff;
+  background:$bg-color;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0), 0 1px 2px rgba(0, 0, 0, 0.08);
+}
 
 .wishlist-icon i,
 .delete-icon {
@@ -7,20 +19,88 @@
   cursor: pointer;
   transition: all .2s
 }
-.h5-tag{
-  font-size: 1rem;
-  font-weight: 500;
+
+.wishlist-icon i:hover,
+.delete-icon:hover {
+  transform: scale(1.5);
 }
-.h-100{
-    height: 100%;
-    position: relative;
+
+.wishlist-icon i:hover,
+.delete-icon:hover{
+	@extend %icon-hover;
 }
-.product-categoery-icon h5{
-	@extend .h5-tag;
+
+.topbar{
+	@extend %header-bg;
 }
-.height-100{
-	@extend .h-100;
+
+hr.app-hr {
+  	@extend %divider;
 }
+
+.discount-price {
+  text-decoration: line-through;
+}
+/*** index.page css***/
+.section.app-logo{
+	@extend %img-child;
+}
+
+.bargainz-wrappper {
+  background:$bg-color;
+  width: 100%;
+  float: left;
+}
+
+.wrappper{
+  height: 100%;
+  @extend .bargainz-wrappper;
+}
+
+.center-section{
+	@extend %flex;
+}
+.social-wrap {
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+    .facebook{
+    	background:$facebook-color;
+    }
+
+    .google{
+    	background:$google-color;
+    }
+}
+
+.social-icon button,
+button.sign-in-btn{
+	@extend %button;
+	max-width: 80%;
+}
+button.sign-in-btn{
+	max-width: 95%
+}  	
+
+div#jssor_1 {
+  width: 100% !important;
+}
+
+.errorTxt4{
+	color:$primary-color;
+}
+/*** index.page css end***/
+
+.product-categoery-icon {
+  background-color:$white-color;
+}
+
+.btn:hover,
+.btn-large:hover,
+.btn-small:hover {
+  background:$bg-btn-hover;
+}
+
 
 /*# sourceMappingURL=style.scss.map */
 

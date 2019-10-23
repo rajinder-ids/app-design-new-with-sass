@@ -1,0 +1,20 @@
+.shoping-list{
+	@extend %grid-box;
+
+	.shoping-list-img{
+		@extend %img-parent;
+		height: 175px;
+
+		img {
+			@extend %img-child;
+			width: 85px;
+		}
+	}
+	
+	.shoping-list-title h6 {
+  		@extend %product-title;
+	}
+}
+
+
+

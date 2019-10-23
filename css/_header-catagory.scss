@@ -26,6 +26,34 @@
 	}
 }
  
+.page-title {
+  font-size:$font-size;
+}
+.row{
+	margin-bottom:$margin-bottom-0;
+}
+
+.fixed-notification-main {
+
+	.fixed-notification{
+
+		@extend %flex;
+	    left: 0;
+	    width: 100%;
+	    z-index: 9;
+	    padding: 12px 8px;
+	    margin: 0px;
+		background:$bg-color;
+	    color:$white-color; 
+	   	justify-content: space-between;
+	}
+	.collection{
+	   	margin-top: 0px;
+	    overflow-y: auto;
+	    height: 250px;
+	}
+}
+
 
 
 /*# sourceMappingURL=style.scss.map */
