@@ -4,6 +4,20 @@
 @import 'products-page';
 @import 'shoping-list';
 @import 'single-product';
+@import 'contact';
+
+html,
+head,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+%container{
+  width: 100%;
+  margin: 0 auto;
+  max-width: 100%;
+}
 
 %header-bg {
   color: #fff;
@@ -11,6 +25,27 @@
   font-weight: 600;
   letter-spacing: 0.5px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0), 0 1px 2px rgba(0, 0, 0, 0.08);
+}
+
+
+.padding-0 {
+  padding-bottom: 6px;
+  padding-top: 6px;
+}
+.footer-section {
+  @extend %fixed;
+  bottom: 0px;
+  margin-bottom: 0px;
+}
+
+.top-section-fixed {
+  @extend %fixed;
+  top: 0px;
+}
+
+.height-100 {
+  height: 100%;
+  position: $position-relative;
 }
 
 .wishlist-icon i,
@@ -37,25 +72,91 @@
 hr.app-hr {
   	@extend %divider;
 }
-
+.wrap-padding {
+    width: 100%;
+    float: left;
+    background-color: #f1f1f1;
+    padding-bottom: 0px;
+}
+.fixed-header{
+  @extend %fixed;
+}
 .discount-price {
   text-decoration: line-through;
 }
+
+.custom-container{
+  @extend %container;
+}
+
+.card.box-shadow-hide {
+  box-shadow: none;
+}
+.single-products-box {
+  @extend %grid-box;
+  padding: 16px;
+}
+.start-now{
+  @extend %button;
+  width: auto;
+  margin-top: 0px;
+  margin-bottom:14px;
+}
+.Subscription-price{
+  color: $white-color;
+  background:$bg-color
+}
+.scan-code-bg {
+  background: linear-gradient(to right, #2b2927 0%, #4b443c 100%);
+}
+.profile {
+  h5 {
+    margin-top: 0px;
+  }
+}
+.center-section2 {
+  position: fixed;
+  top: 50%;
+  left: 0;
+  width: 100%;
+}
+.send-code-btn {
+  margin-bottom: 30px;
+}
+
+
 /*** index.page css***/
 .section.app-logo{
 	@extend %img-child;
 }
 
 .bargainz-wrappper {
+  @extend %fixed;
   background:$bg-color;
-  width: 100%;
-  float: left;
+  height: 200px;
+  border-bottom-left-radius: 46%;
+  border-bottom-right-radius: 46%;
+  top: 0;
+  left: 0;
+  right: 0;
 }
 
 .wrappper{
   height: 100%;
-  @extend .bargainz-wrappper;
+  background:$bg-color;
+  width: 100%;
+  float: left;
 }
+.country-img {
+  border: 4px solid red;
+  border-radius: 50%;
+}
+
+.section.single-products-topbar {
+  background:$white-color;
+}
+
+
 
 .center-section{
 	@extend %flex;
@@ -90,9 +191,20 @@ div#jssor_1 {
 	color:$primary-color;
 }
 /*** index.page css end***/
+.edit-profile-section .section.topbar {
+  height: 100px;
+}
+.input-field.col{
 
-.product-categoery-icon {
-  background-color:$white-color;
+  label{
+    color:$black-color;
+    padding-left: 0.75rem;
+    left: 0;
+  }
+
+}
+.padding-none {
+  padding:$padding-none;
 }
 
 .btn:hover,

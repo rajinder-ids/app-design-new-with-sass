@@ -18,7 +18,7 @@
             <!--   Icon Section   -->
             <div class="row">
                <div class="col s6 m6 left-align">
-                  <a href="/app-design-new/home.php"><i class="material-icons dp48 black-text" style="font-size:40px">chevron_left</i></a>
+                  <a href="home.php"><i class="material-icons dp48 black-text" style="font-size:40px">chevron_left</i></a>
                </div>
                <div class="col s6 m6 right-align">
                   <img class="app-wishlist-icon" src="images/congrats-badge.png">
@@ -218,7 +218,7 @@
             </div>
             <div class="row">
                <div class="col s6 m6 left-align">
-                  <h6 class="top-margin"><a href="/app-design-new/products-page.php" class="red-text">Show more</a></h6>
+                  <h6 class="top-margin"><a href="products-page.php" class="red-text">Show more</a></h6>
                </div>
                <div class="col s6 m6 right-align">
                   <i class="material-icons dp48 red-text">chevron_right</i>

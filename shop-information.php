@@ -8,6 +8,7 @@
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
       <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
       <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+      <link href="css/custom.css" type="text/css" rel="stylesheet" media="screen,projection"/>
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/css/swiper.min.css">
    </head>
@@ -17,7 +18,7 @@
             <!--   Icon Section   -->
             <div class="row">
                <div class="col s4 m4 left-align">
-                     <a href="/app-design-new/home.php" class="white-text"><i class="material-icons dp48" style="font-size:40px">chevron_left</i></a>
+                     <a href="home.php" class="white-text"><i class="material-icons dp48">chevron_left</i></a>
                   </div>
                <div class="col s4 m4 center-align">
                   <span class="page-title" style="font-size:14px;">Shop Information</span>
@@ -171,7 +172,7 @@
             </div>
             <div class="row">
                <div class="col s6 m6 left-align">
-                  <h6 class="top-margin"><a href="/app-design-new/products-page.php" class="red-text">Show more</a></h6>
+                  <h6 class="top-margin"><a href="products-page.php" class="red-text">Show more</a></h6>
                </div>
                <div class="col s6 m6 right-align">
                   <i class="material-icons dp48 red-text">chevron_right</i>
@@ -287,7 +288,7 @@
             </div>
             <div class="row">
                <div class="col s6 m6 left-align">
-                  <h6 class="top-margin"><a href="/app-design-new/products-page.php" class="red-text">Show more</a></h6>
+                  <h6 class="top-margin"><a href="products-page.php" class="red-text">Show more</a></h6>
                </div>
                <div class="col s6 m6 right-align">
                   <i class="material-icons dp48 red-text">chevron_right</i>

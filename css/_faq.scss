@@ -1,9 +1,10 @@
 %abc{
   border: 0px;
   background-color:$white-color;
-  color: $black-color;
 }
 .collapsible {
+		border: 0px;
+  		box-shadow: none;
 
  	.collapsible-header {
  		border-radius: 4px 4px;
@@ -15,9 +16,16 @@
   		border-radius: 0px 0px 4px 4px;
   		@extend %abc;
 	}
+	.collapsible-body.category-body{
+	    width: 100%;
+	    float: left;
+	    padding: 0px;
+	} 
 	li .collapsible-header{
+		justify-content: space-between;
 		.caret{
 			color:$primary-color;
+			margin-right: 0px;
 		}
 	}
 	li.active .collapsible-header .caret {
@@ -27,6 +35,12 @@
 	}
 	li.active .collapsible-header {
 		@extend %abc;
+	}
+
+	li{
+		width: 100%;
+		float: left;
+		margin-bottom: 20px;
 	}
 }
 .upload-image {

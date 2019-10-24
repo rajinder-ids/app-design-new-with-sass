@@ -20,7 +20,7 @@
             <!--   Icon Section   -->
             <div class="row">
                <div class="col s4 m4 left-align">
-                  <a href="/app-design-new/home.php" class="white-text"><i class="material-icons dp48" style="font-size: 40px">chevron_left</i></a>
+                  <a href="home.php" class="white-text"><i class="material-icons dp48">chevron_left</i></a>
                </div>
                <div class="col s4 m4 center-align">
                   <span class="page-title" style="font-size:14px;">Shoping List</span>
@@ -44,7 +44,7 @@
                <div class="row">
                   <div class="col s12 m12 l4">
                      <div class="shoping-list">
-                        <a href="/app-design-new/single-products.php"><div class="col s4 center">
+                        <a href="single-products.php"><div class="col s4 center">
                            <div class="shoping-list-img">
                               <img src="images/2.png">
                            </div>
@@ -52,7 +52,7 @@
                         </a>
                         <div class="col s6">
                            <div class="shoping-list-title">
-                              <a href="/app-design-new/single-products.php"><h6 class="black-text">Convallis Furniture</h6></a>
+                              <a href="single-products.php"><h6 class="black-text">Convallis Furniture</h6></a>
                               <p class="grey-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
                               <h6 class="green-text">$14.67 <small class="grey-text discount-price">$16.71</small> <span class="black-text">(Save 10%) </span</h6>
                            </div>
@@ -70,7 +70,7 @@
                   </div>
                   <div class="col s12 m12 l4">
                      <div class="shoping-list">
-                        <a href="/app-design-new/single-products.php">
+                        <a href="single-products.php">
                            <div class="col s4 center">
                               <div class="shoping-list-img">
                                  <img src="images/rating.png">
@@ -79,7 +79,7 @@
                         </a>
                         <div class="col s6">
                            <div class="shoping-list-title">
-                              <a href="/app-design-new/single-products.php"><h6 class="black-text truncate">Convallis Furniture</h6></a>
+                              <a href="single-products.php"><h6 class="black-text truncate">Convallis Furniture</h6></a>
                               <p class="grey-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
                               <h6 class="green-text">$14.67 <small class="grey-text discount-price">$16.71</small> <span class="black-text">(Save 10%) </span</h6>
                            </div>
@@ -97,7 +97,7 @@
                   </div>
                   <div class="col s12 m12 l4">
                      <div class="shoping-list">
-                        <a href="/app-design-new/single-products.php">
+                        <a href="single-products.php">
                            <div class="col s4 center">
                               <div class="shoping-list-img">
                                  <img src="images/2.png">
@@ -106,7 +106,7 @@
                         </a>
                         <div class="col s6">
                            <div class="shoping-list-title">
-                              <a href="/app-design-new/single-products.php"><h6 class="black-text truncate">Convallis Furniture</h6></a>
+                              <a href="single-products.php"><h6 class="black-text truncate">Convallis Furniture</h6></a>
                               <p class="grey-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
                               <h6 class="green-text">$14.67 <small class="grey-text discount-price">$16.71</small> <span class="black-text">(Save 10%) </span</h6>
                            </div>
@@ -124,7 +124,7 @@
                   </div>
                   <div class="col s12 m12 l4">
                      <div class="shoping-list">
-                        <a href="/app-design-new/single-products.php">
+                        <a href="single-products.php">
                         <div class="col s4 center">
                            <div class="shoping-list-img">
                               <img src="images/2.png">
@@ -133,7 +133,7 @@
                      </a>
                         <div class="col s6">
                            <div class="shoping-list-title">
-                              <a href="/app-design-new/single-products.php"><h6 class="black-text truncate">Convallis Furniture</h6></a>
+                              <a href="single-products.php"><h6 class="black-text truncate">Convallis Furniture</h6></a>
                               <p class="grey-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
                               <h6 class="green-text">$14.67 <small class="grey-text discount-price">$16.71</small> <span class="black-text">(Save 10%) </span</h6>
                            </div>
@@ -152,7 +152,7 @@
                   <div class="col s12 m12 l4">
 
                      <div class="shoping-list">
-                        <a href="/app-design-new/single-products.php">
+                        <a href="single-products.php">
                         <div class="col s4 center">
                            <div class="shoping-list-img">
                               <img src="images/rating.png">
@@ -161,7 +161,7 @@
                      </a>
                         <div class="col s6">
                            <div class="shoping-list-title">
-                              <a href="/app-design-new/single-products.php"><h6 class="black-text truncate">Convallis Furniture</h6></a>
+                              <a href="single-products.php"><h6 class="black-text truncate">Convallis Furniture</h6></a>
                               <p class="grey-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
                               <h6 class="green-text">$14.67 <small class="grey-text discount-price">$16.71</small> <span class="black-text">(Save 10%) </span</h6>
                            </div>
@@ -179,7 +179,7 @@
                   </div>
                   <div class="col s12 m12 l4">
                      <div class="shoping-list">
-                        <a href="/app-design-new/single-products.php">
+                        <a href="single-products.php">
                         <div class="col s4 center">
                            <div class="shoping-list-img">
                               <img src="images/2.png">
@@ -189,7 +189,7 @@
                      </a>
                         <div class="col s6">
                            <div class="shoping-list-title">
-                              <a href="/app-design-new/single-products.php"><h6 class="black-text truncate">Convallis Furniture</h6></a>
+                              <a href="single-products.php"><h6 class="black-text truncate">Convallis Furniture</h6></a>
                               <p class="grey-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
                               <h6 class="green-text">$14.67 <small class="grey-text discount-price">$16.71</small> <span class="black-text">(Save 10%) </span</h6>
                            </div>

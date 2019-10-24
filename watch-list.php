@@ -11,6 +11,7 @@
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
       <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
       <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+      <link href="css/custom.css" type="text/css" rel="stylesheet" media="screen,projection"/>
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
    </head>
    <body>
@@ -56,24 +57,6 @@
                   </form>
             </div>
          </div>
-         <!-- <div class="section" style="box-shadow: 0 1px 1.5px rgba(0,0,0,.11765);background: #fff;margin-top:12px;">
-            <div class="row">
-               <div class="col s12 m12 l12">
-                  <div class="col s12 m12 l12">
-                     <span>Trending</span>
-                  </div>
-                  &nbsp;
-                  <div class="tranding-btn">
-
-                     <a class="waves-effect waves-light btn-small">Shoes</a>
-                     <a class="waves-effect waves-light btn-small">Bag</a>
-                     <a class="waves-effect waves-light btn-small">Shoes</a>
-                     <a class="waves-effect waves-light btn-small">Bag</a>
-                     <a class="waves-effect waves-light btn-small">Shoes</a>
-                  </div>
-               </div>
-            </div>
-         </div> -->
       </div>
          <!---------sidebar menu----------->
          <ul id="slide-out" class="sidenav">
@@ -119,134 +102,134 @@
          </li>
       </ul>
          <!---------sidebar menu----------->
-         <div class="wrap-padding porducts-list" style="margin-top:54px">
+         <div class="wrap-padding porducts-list" style="margin-top:40px;">
             <div class="section">
                <div class="row">
                   <div class="col s6 m4 l3">
-                     <a href="/app-design-new/single-products.php">
+                     <a href="single-products.php">
                      <div class="porducts-grid center">
                         <img src="images/1.png">
                         <i class="material-icons dp48 app-wishlist-icon">favorite_border</i>
                      </div></a>
                      <div class="porducts-title">
-                        <a href="/app-design-new/single-products.php">
+                        <a href="single-products.php">
                         <h6 class="black-text">Portable Wireless Speakers</h6>
                         </a>
                         <h5 class="green-text">$14.86</h5>
                         <h6 class="grey-text">$14.86 <span class="black-text">(Save 10%)</span></h6>
-                        <a href="/app-design-new/products-page.php" class="add-to-shop">Add a shopping list</a>
+                        <a href="products-page.php" class="add-to-shop">Add a shopping list</a>
                      </div>
                   </div>
                   <div class="col s6 m4 l3">
-                     <a href="/app-design-new/single-products.php">
+                     <a href="single-products.php">
                         <div class="porducts-grid center">
                            <img src="images/2.png">
                            <i class="material-icons dp48 app-wishlist-icon">favorite_border</i>
                         </div>
                      </a>
                      <div class="porducts-title">
-                        <a href="/app-design-new/single-products.php">
+                        <a href="single-products.php">
                            <h6 class="black-text">BEATS Wireless Headphones</h6>
                         </a>
                         <h5 class="green-text">$14.86</h5>
                         <h6 class="grey-text">$14.86 <span class="black-text">(Save 10%)</span></h6>
-                        <a href="/app-design-new/products-page.php" class="add-to-shop">Add a shopping list</a>
+                        <a href="products-page.php" class="add-to-shop">Add a shopping list</a>
                      </div>
                   </div>
                   <div class="col s6 m4 l3">
-                     <a href="/app-design-new/single-products.php">
+                     <a href="single-products.php">
                         <div class="porducts-grid center">
                            <img src="images/1.png">
                            <i class="material-icons dp48 app-wishlist-icon">favorite_border</i>
                         </div>
                      </a>
                      <div class="porducts-title">
-                        <a href="/app-design-new/single-products.php">
+                        <a href="single-products.php">
                            <h6 class="black-text">Portable Wireless Speakers</h6>
                         </a>
                         <h5 class="green-text">$14.86</h5>
                         <h6 class="grey-text">$14.86 <span class="black-text">(Save 10%)</span></h6>
-                        <a href="/app-design-new/products-page.php" class="add-to-shop">Add a shopping list</a>
+                        <a href="products-page.php" class="add-to-shop">Add a shopping list</a>
                      </div>
                   </div>
                   <div class="col s6 m4 l3">
-                     <a href="/app-design-new/single-products.php">
+                     <a href="single-products.php">
                         <div class="porducts-grid center">
                            <img src="images/2.png">
                            <i class="material-icons dp48 app-wishlist-icon">favorite_border</i>
                         </div>
                      </a>
                      <div class="porducts-title">
-                        <a href="/app-design-new/single-products.php">
+                        <a href="single-products.php">
                            <h6 class="black-text">BEATS Wireless Headphones</h6>
                         </a>
                         <h5 class="green-text">$14.86</h5>
                         <h6 class="grey-text">$14.86 <span class="black-text">(Save 10%)</span></h6>
-                        <a href="/app-design-new/products-page.php" class="add-to-shop">Add a shopping list</a>
+                        <a href="products-page.php" class="add-to-shop">Add a shopping list</a>
                      </div>
                   </div>
                   <div class="col s6 m4 l3">
-                     <a href="/app-design-new/single-products.php">
+                     <a href="single-products.php">
                         <div class="porducts-grid center">
                            <img src="images/2.png">
                            <i class="material-icons dp48 app-wishlist-icon">favorite_border</i>
                         </div>
                      </a>
                      <div class="porducts-title">
-                        <a href="/app-design-new/single-products.php">
+                        <a href="single-products.php">
                            <h6 class="black-text">BEATS Wireless Headphones</h6>
                         </a>
                         <h5 class="green-text">$14.86</h5>
                         <h6 class="grey-text">$14.86 <span class="black-text">(Save 10%)</span></h6>
-                        <a href="/app-design-new/products-page.php" class="add-to-shop">Add a shopping list</a>
+                        <a href="products-page.php" class="add-to-shop">Add a shopping list</a>
                      </div>
                   </div>
                   <div class="col s6 m4 l3">
-                     <a href="/app-design-new/single-products.php">
+                     <a href="single-products.php">
                         <div class="porducts-grid center">
                            <img src="images/2.png">
                            <i class="material-icons dp48 app-wishlist-icon">favorite_border</i>
                         </div>
                      </a>
                      <div class="porducts-title">
-                        <a href="/app-design-new/single-products.php">
+                        <a href="single-products.php">
                            <h6 class="black-text">BEATS Wireless Headphones</h6>
                         </a>
                         <h5 class="green-text">$14.86</h5>
                         <h6 class="grey-text">$14.86 <span class="black-text">(Save 10%)</span></h6>
-                        <a href="/app-design-new/products-page.php" class="add-to-shop">Add a shopping list</a>
+                        <a href="products-page.php" class="add-to-shop">Add a shopping list</a>
                      </div>
                   </div>
                   <div class="col s6 m4 l3">
-                     <a href="/app-design-new/single-products.php">
+                     <a href="single-products.php">
                         <div class="porducts-grid center">
                            <img src="images/2.png">
                            <i class="material-icons dp48 app-wishlist-icon">favorite_border</i>
                         </div>
                      </a>
                      <div class="porducts-title">
-                        <a href="/app-design-new/single-products.php">
+                        <a href="single-products.php">
                            <h6 class="black-text">BEATS Wireless Headphones</h6>
                         </a>
                         <h5 class="green-text">$14.86</h5>
                         <h6 class="grey-text">$14.86 <span class="black-text">(Save 10%)</span></h6>
-                        <a href="/app-design-new/products-page.php" class="add-to-shop">Add a shopping list</a>
+                        <a href="products-page.php" class="add-to-shop">Add a shopping list</a>
                      </div>
                   </div>
                   <div class="col s6 m4 l3">
-                     <a href="/app-design-new/single-products.php">
+                     <a href="single-products.php">
                         <div class="porducts-grid center">
                            <img src="images/2.png">
                            <a href="#"><i class="material-icons dp48 app-wishlist-icon">favorite_border</i></a>
                         </div>
                      </a>
                      <div class="porducts-title">
-                        <a href="/app-design-new/single-products.php">
+                        <a href="single-products.php">
                            <h6 class="black-text">BEATS Wireless Headphones</h6>
                         </a>
                         <h5 class="green-text">$14.86</h5>
                         <h6 class="grey-text">$14.86 <span class="black-text">(Save 10%)</span></h6>
-                        <a href="/app-design-new/products-page.php" class="add-to-shop">Add a shopping list</a>
+                        <a href="products-page.php" class="add-to-shop">Add a shopping list</a>
                      </div>
                   </div>
                </div>
@@ -255,7 +238,7 @@
          <!-- Modal Structure -->
          <div class=" fadeInRight top-sheet fixed-notification-main">
             <div class="" style="position:relative;">
-               <h4 class="fixed-notification fade-out">Notification 2<i class="material-icons dp48"><a class="black-text">close</a></i></h4>
+               <h4 class="fixed-notification fade-out">Notification 2<i class="material-icons dp48"><a class="white-text">close</a></i></h4>
 
                <ul class="collection">
                   <li class="collection-item avatar">

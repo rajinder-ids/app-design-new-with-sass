@@ -11,6 +11,7 @@
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
       <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
       <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+      <link href="css/custom.css" type="text/css" rel="stylesheet" media="screen,projection"/>
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
    </head>
    <body>
@@ -19,7 +20,7 @@
                <!--   Icon Section   -->
                <div class="row">
                   <div class="col s4 m4 left-align">
-                     <a href="/app-design-new/home.php" class="white-text"><i class="material-icons dp48" style="font-size:40px">chevron_left</i></a>
+                     <a href="/app-design-new/home.php" class="white-text"><i class="material-icons dp48">chevron_left</i></a>
                   </div>
                   <div class="col s8 m8 left-align">
                      <span class="page-title">Send code</span>

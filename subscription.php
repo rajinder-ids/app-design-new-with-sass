@@ -11,6 +11,7 @@
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
       <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
       <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+      <link href="css/custom.css" type="text/css" rel="stylesheet" media="screen,projection"/>
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
    </head>
    <body>
@@ -19,7 +20,7 @@
             <!--   Icon Section   -->
             <div class="row">
                <div class="col s4 m4 left-align">
-                  <a href="/app-design-new/home.php" class="white-text"><i class="material-icons dp48" style="font-size:40px">chevron_left</i></a>
+                  <a href="home.php" class="white-text"><i class="material-icons dp48" style="font-size:40px">chevron_left</i></a>
                </div>
                <div class="col s4 m4 center-align">
                   <span class="page-title">Subscription</span>
@@ -80,7 +81,7 @@
          <div class="section topbar Premium-subscriber-btn footer-section">
             <div class="row center">
                <div class="col s12 m12 l12">
-                  <h6 class="no-margin"><a href="/app-design-new/home.php" class="white-text">Become Premium Subscriber</h6>
+                  <h6 class="no-margin"><a href="home.php" class="white-text">Become Premium Subscriber</h6>
                </div>
             </div>
          </div>

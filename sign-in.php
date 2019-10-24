@@ -21,7 +21,7 @@
             <!--   Icon Section   -->
             <div class="row">
                <div class="col s4 m4 left-align">
-                  <a href="/app-design-new/home.php" class="white-text"><i class="material-icons dp48" style="font-size:40px">chevron_left</i></a>
+                  <a href="home.php" class="white-text"><i class="material-icons dp48">chevron_left</i></a>
                </div>
                <div class="col s4 m4 center-align">
                   <span class="page-title">Sign In</span>
@@ -73,7 +73,7 @@
             </div>
             <div class="row center footer-section">
                <div class="col s12 m12 l12">
-                  <h5 class="grey-text">Don't have an account? <a href="/app-design-new/sign-up.php" class="red-text">Create Account</a></h5>
+                  <h5 class="grey-text">Don't have an account? <a href="sign-up.php" class="red-text">Create Account</a></h5>
                </div>
             </div>
          </div>

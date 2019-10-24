@@ -148,7 +148,7 @@
                                  <h6 class="grey-text">$14.86 <span class="black-text">(Save 10%)</span></h6>
                               </div>
                            </a>
-                           <a href="/app-design-new/shoping-list.php" class="add-to-shop">Add a shopping list</a>
+                           <a href="shoping-list.php" class="add-to-shop">Add a shopping list</a>
                         </div>
                         <div class="swiper-slide">
                            <a href="#">
@@ -164,7 +164,7 @@
                                  <h6 class="grey-text">$14.86 <span class="black-text">(Save 10%)</span></h6>
                               </div>
                            </a>
-                           <a href="/app-design-new/shoping-list.php" class="add-to-shop">Add a shopping list</a>
+                           <a href="shoping-list.php" class="add-to-shop">Add a shopping list</a>
                         </div>
                         <div class="swiper-slide">
                            <a href="#">
@@ -180,7 +180,7 @@
                                  <h6 class="grey-text">$14.86 <span class="black-text">(Save 10%)</span></h6>
                               </div>
                            </a>
-                           <a href="/app-design-new/shoping-list.php" class="add-to-shop">Add a shopping list</a>
+                           <a href="shoping-list.php" class="add-to-shop">Add a shopping list</a>
                         </div>
                         <div class="swiper-slide">
                            <a href="#">
@@ -196,7 +196,7 @@
                                  <h6 class="grey-text">$14.86 <span class="black-text">(Save 10%)</span></h6>
                               </div>
                            </a>
-                           <a href="/app-design-new/shoping-list.php" class="add-to-shop">Add a shopping list</a>
+                           <a href="shoping-list.php" class="add-to-shop">Add a shopping list</a>
                         </div>
                         <div class="swiper-slide">
                            <a href="#">
@@ -212,7 +212,7 @@
                                  <h6 class="grey-text">$14.86 <span class="black-text">(Save 10%)</span></h6>
                               </div>
                            </a>
-                           <a href="/app-design-new/shoping-list.php" class="add-to-shop">Add a shopping list</a>
+                           <a href="shoping-list.php" class="add-to-shop">Add a shopping list</a>
                         </div>
                      </div>
                      <!-- Add Pagination -->
@@ -329,7 +329,7 @@
                </div>
                <div class="row">
                   <div class="col s6 m6 left-align">
-                      <h6 class="top-margin"><a href="/app-design-new/products-page.php" class="red-text">Show more</a></h6>
+                      <h6 class="top-margin"><a href="products-page.php" class="red-text">Show more</a></h6>
                   </div>
                   <div class="col s6 m6 right-align">
                      <i class="material-icons dp48 red-text">chevron_right</i>
@@ -445,7 +445,7 @@
                </div>
                <div class="row">
                   <div class="col s6 m6 left-align">
-                     <h6 class="top-margin"><a href="/app-design-new/products-page.php" class="red-text">Show more</a></h6>
+                     <h6 class="top-margin"><a href="products-page.php" class="red-text">Show more</a></h6>
                   </div>
                   <div class="col s6 m6 right-align">
                      <i class="material-icons dp48 red-text">chevron_right</i>
@@ -561,7 +561,7 @@
                </div>
                <div class="row">
                   <div class="col s6 m6 left-align">
-                     <h6 class="top-margin"><a href="/app-design-new/products-page.php" class="red-text">Show more</a></h6>
+                     <h6 class="top-margin"><a href="products-page.php" class="red-text">Show more</a></h6>
                   </div>
                   <div class="col s6 m6 right-align">
                      <i class="material-icons dp48 red-text">chevron_right</i>

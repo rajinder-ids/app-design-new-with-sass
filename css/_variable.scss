@@ -9,8 +9,22 @@ $facebook-color:linear-gradient(to right, rgb(66, 79, 183) 0%, rgb(77, 92, 177) 
 $google-color:linear-gradient(to right, rgb(242, 75, 56) 0%, #e85136 100%);
 $margin-bottom-0:0px;
 $font-size:16px;
+$padding-none:0px;
 
 
+%fixed{
+  position:fixed;
+  width: 100%;
+  background-color:$white-color;
+  z-index: 999;
+}
+
+%sticky{
+  position: sticky;
+  top: 0;
+  z-index:99;
+  text-align: center;
+}
 %button{
     width: 100%;
     background:$bg-color;
@@ -39,7 +53,7 @@ $font-size:16px;
 }
 
 %grid-box{
-	background: $white-color;
+	  background: $white-color;
     width: 100%;
     float: left;
     padding: 8px 0px;

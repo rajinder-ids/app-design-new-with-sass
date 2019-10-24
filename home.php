@@ -36,10 +36,10 @@
          </div>
       </div>
       <div class="searchbar-home fadeInRight fadeout">
-         <div class="section" style="box-shadow:0 1px 1.5px rgba(0, 0, 0, 0.64);background: #fff;">
+         <div class="section padding-0" style="box-shadow:0 1px 1.5px rgba(0, 0, 0, 0.64);background: #fff;">
             <div class="row">
                <form>
-                  <div class="input-field col s12 top-margin">
+                  <div class="input-field col s12">
                      <i class="material-icons dp48 prefix fade-out"><a  class="black-text">arrow_back</a></i>
                      <input type="text"  id="input-search" class="validate" placeholder="Search for products, brands and more">
                   </div>
@@ -91,7 +91,7 @@
          </li>
       </ul>
       <!---------sidebar menu----------->
-      <div class="section product-categoery-icon">
+      <div class="section padding-none">
          <div class="row tab-menu sticky-category">
             <div class="col s12 no-padding">
                <ul class="tabs">
@@ -105,7 +105,7 @@
                </ul>
             </div>
          </div>
-         <div class="section home-slider padding-0">
+         <div class="section home-slider padding-none">
             <div class="row">
                <div class="col s12 m12 l12">
                   <div id="jssor_1" style="position:relative;margin:0 auto;top:0px;left:0px;width:1280px;height:500px;overflow:hidden;visibility:hidden;">
@@ -141,7 +141,7 @@
                   <div class="swiper-container recentlyAdded">
                      <div class="swiper-wrapper">
                         <div class="swiper-slide">
-                           <a href="/app-design-new/single-products.php">
+                           <a href="single-products.php">
                               <div class="porducts-grid center">
                                  <img src="images/1.jpg">
                                  <img class="app-wishlist-icon" src="images/congrats-badge.png">
@@ -149,7 +149,7 @@
                            </a>
                            <div class="porducts-title col s12 m12 l12">
                               <div class="title-wishlist">
-                                 <a href="/app-design-new/single-products.php">
+                                 <a href="single-products.php">
                                     <h6 class="black-text">Fresh Essential No Gas Deodorant - Ignite, 150 ml (Pack of 2)</h6>
                                  </a>
                                  <div class="wishlist-icon">
@@ -162,7 +162,7 @@
                            </div>
                         </div>
                         <div class="swiper-slide">
-                           <a href="/app-design-new/single-products.php">
+                           <a href="single-products.php">
                               <div class="porducts-grid center">
                                  <img src="images/3.jpg">
                                  <img class="app-wishlist-icon" src="images/congrats-badge.png">
@@ -170,7 +170,7 @@
                            </a>
                            <div class="porducts-title col s12 m12 l12">
                               <div class="title-wishlist">
-                                 <a href="/app-design-new/single-products.php">
+                                 <a href="single-products.php">
                                     <h6 class="black-text">Fresh Essential No Gas Deodorant - Ignite, 150 ml (Pack of 2)</h6>
                                  </a>
                                  <div class="wishlist-icon ">
@@ -181,7 +181,7 @@
                            </div>
                         </div>
                         <div class="swiper-slide">
-                           <a href="/app-design-new/single-products.php">
+                           <a href="Hsingle-products.php">
                               <div class="porducts-grid center">
                                  <img src="images/Women-Bag-PNG-HD.png">
                                  <img class="app-wishlist-icon" src="images/congrats-badge.png">
@@ -189,7 +189,7 @@
                            </a>
                            <div class="porducts-title col s12 m12 l12">
                               <div class="title-wishlist">
-                                 <a href="/app-design-new/single-products.php">
+                                 <a href="Hsingle-products.php">
                                     <h6 class="black-text">Fresh Essential No Gas Deodorant - Ignite, 150 ml (Pack of 2)</h6>
                                  </a>
                                  <div class="wishlist-icon ">
@@ -200,7 +200,7 @@
                            </div>
                         </div>
                         <div class="swiper-slide">
-                           <a href="/app-design-new/single-products.php">
+                           <a href="Hsingle-products.php">
                               <div class="porducts-grid center">
                                  <img src="images/Insigne_2.jpg">
                                  <img class="app-wishlist-icon" src="images/congrats-badge.png">
@@ -208,7 +208,7 @@
                            </a>
                            <div class="porducts-title col s12 m12 l12">
                               <div class="title-wishlist">
-                                 <a href="/app-design-new/single-products.php">
+                                 <a href="Hsingle-products.php">
                                     <h6 class="black-text">Fresh Essential No Gas Deodorant - Ignite, 150 ml (Pack of 2)</h6>
                                  </a>
                                  <div class="wishlist-icon ">
@@ -219,7 +219,7 @@
                            </div>
                         </div>
                         <div class="swiper-slide">
-                           <a href="/app-design-new/single-products.php">
+                           <a href="Hsingle-products.php">
                               <div class="porducts-grid center">
                                  <img src="images/5.jpg">
                                  <img class="app-wishlist-icon" src="images/congrats-badge.png">
@@ -227,7 +227,7 @@
                            </a>
                            <div class="porducts-title col s12 m12 l12">
                               <div class="title-wishlist">
-                                 <a href="/app-design-new/single-products.php">
+                                 <a href="Hsingle-products.php">
                                     <h6 class="black-text">Fresh Essential No Gas Deodorant - Ignite, 150 ml (Pack of 2)</h6>
                                  </a>
                                  <div class="wishlist-icon ">
@@ -245,7 +245,7 @@
             </div>
             <div class="row">
                <div class="col s6 m6 left-align">
-                  <h6 class="top-margin"><a href="/app-design-new/products-page.php" class="red-text">Show more</a></h6>
+                  <h6 class="top-margin"><a href="products-page.php" class="red-text">Show more</a></h6>
                </div>
                <div class="col s6 m6 right-align">
                   <i class="material-icons dp48 red-text">chevron_right</i>
@@ -262,14 +262,14 @@
                   <div class="swiper-container recentlyAdded">
                      <div class="swiper-wrapper">
                         <div class="swiper-slide">
-                           <a href="/app-design-new/single-products.php">
+                           <a href="Hsingle-products.php">
                               <div class="porducts-grid center">
                                  <img src="images/1.jpg">
                               </div>
                            </a>
                            <div class="porducts-title col s12 m12 l12">
                               <div class="title-wishlist">
-                                 <a href="/app-design-new/single-products.php">
+                                 <a href="Hsingle-products.php">
                                     <h6 class="black-text">Fresh Essential No Gas Deodorant - Ignite, 150 ml (Pack of 2)</h6>
                                  </a>
                                  <div class="wishlist-icon ">
@@ -280,14 +280,14 @@
                            </div>
                         </div>
                         <div class="swiper-slide">
-                           <a href="/app-design-new/single-products.php">
+                           <a href="Hsingle-products.php">
                               <div class="porducts-grid center">
                                  <img src="images/3.jpg">
                               </div>
                            </a>
                            <div class="porducts-title col s12 m12 l12">
                               <div class="title-wishlist">
-                                 <a href="/app-design-new/single-products.php">
+                                 <a href="Hsingle-products.php">
                                     <h6 class="black-text">Fresh Essential No Gas Deodorant - Ignite, 150 ml (Pack of 2)</h6>
                                  </a>
                                  <div class="wishlist-icon ">
@@ -298,14 +298,14 @@
                            </div>
                         </div>
                         <div class="swiper-slide">
-                           <a href="/app-design-new/single-products.php">
+                           <a href="Hsingle-products.php">
                               <div class="porducts-grid center">
                                  <img src="images/Women-Bag-PNG-HD.png">
                               </div>
                            </a>
                            <div class="porducts-title col s12 m12 l12">
                               <div class="title-wishlist">
-                                 <a href="/app-design-new/single-products.php">
+                                 <a href="Hsingle-products.php">
                                     <h6 class="black-text">Fresh Essential No Gas Deodorant - Ignite, 150 ml (Pack of 2)</h6>
                                  </a>
                                  <div class="wishlist-icon ">
@@ -316,14 +316,14 @@
                            </div>
                         </div>
                         <div class="swiper-slide">
-                           <a href="/app-design-new/single-products.php">
+                           <a href="Hsingle-products.php">
                               <div class="porducts-grid center">
                                  <img src="images/Insigne_2.jpg">
                               </div>
                            </a>
                            <div class="porducts-title col s12 m12 l12">
                               <div class="title-wishlist">
-                                 <a href="/app-design-new/single-products.php">
+                                 <a href="Hsingle-products.php">
                                     <h6 class="black-text">Fresh Essential No Gas Deodorant - Ignite, 150 ml (Pack of 2)</h6>
                                  </a>
                                  <div class="wishlist-icon ">
@@ -334,14 +334,14 @@
                            </div>
                         </div>
                         <div class="swiper-slide">
-                           <a href="/app-design-new/single-products.php">
+                           <a href="Hsingle-products.php">
                               <div class="porducts-grid center">
                                  <img src="images/5.jpg">
                               </div>
                            </a>
                            <div class="porducts-title col s12 m12 l12">
                               <div class="title-wishlist">
-                                 <a href="/app-design-new/single-products.php">
+                                 <a href="Hsingle-products.php">
                                     <h6 class="black-text">Fresh Essential No Gas Deodorant - Ignite, 150 ml (Pack of 2)</h6>
                                  </a>
                                  <div class="wishlist-icon ">
@@ -358,7 +358,7 @@
                </div>
                <div class="row">
                   <div class="col s6 m6 left-align">
-                     <h6 class="top-margin"><a href="/app-design-new/products-page.php" class="red-text">Show more</a></h6>
+                     <h6 class="top-margin"><a href="products-page.php" class="red-text">Show more</a></h6>
                   </div>
                   <div class="col s6 m6 right-align">
                      <i class="material-icons dp48 red-text">chevron_right</i>
@@ -367,7 +367,6 @@
             </div>
          </div>
          <hr class="app-hr">
-         <div class="wrap-padding porducts-list">
             <div class="section"style="background-color: #f1f1f1;">
                <div class="row">
                   <div class="col s12 m12 l12 left-align">
@@ -381,14 +380,13 @@
                </div>
                <div class="row">
                   <div class="col s6 m6 left-align">
-                     <h6 class="top-margin"><a href="/app-design-new/products-page.php" class="red-text">Show more</a></h6>
+                     <h6 class="top-margin"><a href="products-page.php" class="red-text">Show more</a></h6>
                   </div>
                   <div class="col s6 m6 right-align">
                      <i class="material-icons dp48 red-text">chevron_right</i>
                   </div>
                </div>
             </div>
-         </div>
          <!-- Modal Structure -->
          <div class=" fadeInRight top-sheet fixed-notification-main">
             <div class="" style="position:relative;">
@@ -456,7 +454,7 @@
          <!-- Modal Structure -->
          <div class="fadeInRight top-sheet2">
             <div class="">
-               <h4 class="fixed-notification fade-out">Car Category <i class="material-icons dp48 modal-close"><a class="black-text">close</a></i></h4>
+               <h4 class="fixed-notification fade-out">Car Category <i class="material-icons dp48 modal-close"><a class="white-text">close</a></i></h4>
                <div class="section" style="background: #fff;">
                   <div class="row">
                      <div class="col s12 m12 l12">
@@ -468,65 +466,65 @@
                               </div>
                               <div class="collapsible-body grey-text category-body">
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Motorbike.jpg" width="50">
+                                          <img src="Himages/Motorbike.jpg" width="50">
                                           Motorbike Accessories & Parts 
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Electronics.jpg" width="50">
+                                          <img src="Himages/Car-Electronics.jpg" width="50">
                                           Car Electronics 
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Janitorial-Sanitation.jpg" width="50">
+                                          <img src="Himages/Janitorial-Sanitation.jpg" width="50">
                                           Janitorial & Sanitation 
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Motorbike.jpg" width="50">
+                                          <img src="Himages/Motorbike.jpg" width="50">
                                           Motorbike Accessories & Parts 
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Electronics.jpg" width="50">
+                                          <img src="Himages/Car-Electronics.jpg" width="50">
                                           Car Electronics 
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Janitorial-Sanitation.jpg" width="50">
+                                          <img src="Himages/Janitorial-Sanitation.jpg" width="50">
                                           Janitorial & Sanitation 
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Motorbike.jpg" width="50">
+                                          <img src="Himages/Motorbike.jpg" width="50">
                                           Motorbike Accessories & Parts
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Motorbike.jpg" width="50">
+                                          <img src="Himages/Motorbike.jpg" width="50">
                                           Motorbike Accessories & Parts
                                        </div>
                                     </a>
@@ -540,41 +538,41 @@
                               </div>
                               <div class="collapsible-body grey-text category-body">
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Part.jpg" width="50">
+                                          <img src="Himages/Car-Part.jpg" width="50">
                                           Car Parts
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Accessories.jpg" width="50">
+                                          <img src="Himages/Car-Accessories.jpg" width="50">
                                           Car Accessories
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Part.jpg" width="50">
+                                          <img src="Himages/Car-Part.jpg" width="50">
                                           Car Parts
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Accessories.jpg" width="50">
+                                          <img src="Himages/Car-Accessories.jpg" width="50">
                                           Car Accessories
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Accessories.jpg" width="50">
+                                          <img src="Himages/Car-Accessories.jpg" width="50">
                                           Car Accessories
                                        </div>
                                     </a>
@@ -588,41 +586,41 @@
                               </div>
                               <div class="collapsible-body grey-text category-body">
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Motorbike-Care.jpg" width="50">
+                                          <img src="Himages/Car-Motorbike-Care.jpg" width="50">
                                           Car & Motorbike Care 
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Test-Measure-Inspect.jpg" width="50">
+                                          <img src="Himages/Test-Measure-Inspect.jpg" width="50">
                                           Test, Measure & Inspect 
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Motorbike-Care.jpg" width="50">
+                                          <img src="Himages/Car-Motorbike-Care.jpg" width="50">
                                           Car & Motorbike Care 
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Test-Measure-Inspect.jpg" width="50">
+                                          <img src="Himages/Test-Measure-Inspect.jpg" width="50">
                                           Test, Measure & Inspect
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Motorbike-Care.jpg" width="50">
+                                          <img src="Himages/Car-Motorbike-Care.jpg" width="50">
                                           Car & Motorbike Care 
                                        </div>
                                     </a>
@@ -638,7 +636,7 @@
          <!-- Modal Structure -->
          <div class="fadeInRight top-sheet3">
             <div class="">
-               <h4 class="fixed-notification fade-out">Electronic <i class="material-icons dp48 modal-close"><a class="black-text">close</a></i></h4>
+               <h4 class="fixed-notification fade-out">Electronic <i class="material-icons dp48 modal-close"><a class="white-text">close</a></i></h4>
                <div class="section" style="background: #fff;">
                   <div class="row">
                      <div class="col s12 m12 l12">
@@ -650,25 +648,25 @@
                               </div>
                               <div class="collapsible-body grey-text category-body">
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/WM_GNO.jpg" width="50">
+                                          <img src="Himages/WM_GNO.jpg" width="50">
                                           Large Appliances 
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/mixergrinder.jpg" width="50">
+                                          <img src="Himages/mixergrinder.jpg" width="50">
                                           Kitchen Appliances 
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Home-Entertainment-Systems.jpg" width="50">
+                                          <img src="Himages/Home-Entertainment-Systems.jpg" width="50">
                                           Home Entertainment Systems 
                                        </div>
                                     </a>
@@ -682,17 +680,17 @@
                               </div>
                               <div class="collapsible-body grey-text category-body">
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/AllElectronics.jpg" width="50">
+                                          <img src="Himages/AllElectronics.jpg" width="50">
                                           All Electronics 
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/AllElectronics.jpg" width="50">
+                                          <img src="Himages/AllElectronics.jpg" width="50">
                                           All Electronics 
                                        </div>
                                     </a>
@@ -706,41 +704,41 @@
                               </div>
                               <div class="collapsible-body grey-text category-body">
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/AC1.jpg" width="50">
+                                          <img src="Himages/AC1.jpg" width="50">
                                           Air conditioners  
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Refrigerator_2.jpg" width="50">
+                                          <img src="Himages/Refrigerator_2.jpg" width="50">
                                           Refrigerators  
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Camera-Accessories.jpg" width="50">
+                                          <img src="Himages/Camera-Accessories.jpg" width="50">
                                           Camera Accessories 
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Cameras.jpg" width="50">
+                                          <img src="Himages/Cameras.jpg" width="50">
                                           Cameras 
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Headphones.jpg" width="50">
+                                          <img src="Himages/Headphones.jpg" width="50">
                                           Headphones 
                                        </div>
                                     </a>
@@ -756,7 +754,7 @@
          <!-- Modal Structure -->
          <div class="fadeInRight top-sheet4">
             <div class="">
-               <h4 class="fixed-notification fade-out">Jobs <i class="material-icons dp48 modal-close"><a class="black-text">close</a></i></h4>
+               <h4 class="fixed-notification fade-out">Jobs <i class="material-icons dp48 modal-close"><a class="white-text">close</a></i></h4>
                <div class="section" style="background: #fff;">
                   <div class="row">
                      <div class="col s12 m12 l12">
@@ -768,33 +766,33 @@
                               </div>
                               <div class="collapsible-body grey-text category-body">
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/designer.jpg" width="50">
+                                          <img src="Himages/designer.jpg" width="50">
                                           Web Designer
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/dev.jpg" width="50">
+                                          <img src="Himages/dev.jpg" width="50">
                                           Web Developer
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/designer.jpg" width="50">
+                                          <img src="Himages/designer.jpg" width="50">
                                           Web Designer
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/dev.jpg" width="50">
+                                          <img src="Himages/dev.jpg" width="50">
                                           Web Developer
                                        </div>
                                     </a>
@@ -808,41 +806,41 @@
                               </div>
                               <div class="collapsible-body grey-text category-body">
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Part.jpg" width="50">
+                                          <img src="Himages/Car-Part.jpg" width="50">
                                           Car Parts
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Accessories.jpg" width="50">
+                                          <img src="Himages/Car-Accessories.jpg" width="50">
                                           Car Accessories
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Part.jpg" width="50">
+                                          <img src="Himages/Car-Part.jpg" width="50">
                                           Car Parts
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Accessories.jpg" width="50">
+                                          <img src="Himages/Car-Accessories.jpg" width="50">
                                           Car Accessories
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Accessories.jpg" width="50">
+                                          <img src="Himages/Car-Accessories.jpg" width="50">
                                           Car Accessories
                                        </div>
                                     </a>
@@ -856,17 +854,17 @@
                               </div>
                               <div class="collapsible-body grey-text category-body">
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/teacher.jpg" width="50">
+                                          <img src="Himages/teacher.jpg" width="50">
                                           English Teacher Job 
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/teacher.jpg" width="50">
+                                          <img src="Himages/teacher.jpg" width="50">
                                           Math Teacher Job 
                                        </div>
                                     </a>
@@ -882,7 +880,7 @@
          <!-- Modal Structure -->
          <div class="fadeInRight top-sheet5">
             <div class="">
-               <h4 class="fixed-notification fade-out">Property <i class="material-icons dp48 modal-close"><a class="black-text">close</a></i></h4>
+               <h4 class="fixed-notification fade-out">Property <i class="material-icons dp48 modal-close"><a class="white-text">close</a></i></h4>
                <div class="section" style="background: #fff;">
                   <div class="row">
                      <div class="col s12 m12 l12">
@@ -894,33 +892,33 @@
                               </div>
                               <div class="collapsible-body grey-text category-body">
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/land.jpg" width="50">
+                                          <img src="Himages/land.jpg" width="50">
                                           Land
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/land.jpg" width="50">
+                                          <img src="Himages/land.jpg" width="50">
                                           Land
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/land.jpg" width="50">
+                                          <img src="Himages/land.jpg" width="50">
                                           Land
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/land.jpg" width="50">
+                                          <img src="Himages/land.jpg" width="50">
                                           Land
                                        </div>
                                     </a>
@@ -934,41 +932,41 @@
                               </div>
                               <div class="collapsible-body grey-text category-body">
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/shop.jpg" width="50">
+                                          <img src="Himages/shop.jpg" width="50">
                                           Shops
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/shop.jpg" width="50">
+                                          <img src="Himages/shop.jpg" width="50">
                                           Shops
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/shop.jpg" width="50">
+                                          <img src="Himages/shop.jpg" width="50">
                                           Shops
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/shop.jpg" width="50">
+                                          <img src="Himages/shop.jpg" width="50">
                                           Shops
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/shop.jpg" width="50">
+                                          <img src="Himages/shop.jpg" width="50">
                                           Shops
                                        </div>
                                     </a>
@@ -982,33 +980,33 @@
                               </div>
                               <div class="collapsible-body grey-text category-body">
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/pg.jpg" width="50">
+                                          <img src="Himages/pg.jpg" width="50">
                                           PG 
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/pg.jpg" width="50">
+                                          <img src="Himages/pg.jpg" width="50">
                                           PG & Guest Houses
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/pg.jpg" width="50">
+                                          <img src="Himages/pg.jpg" width="50">
                                           Guest Houses
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/pg.jpg" width="50">
+                                          <img src="Himages/pg.jpg" width="50">
                                           PG 
                                        </div>
                                     </a>
@@ -1024,7 +1022,7 @@
          <!-- Modal Structure -->
          <div class="fadeInRight top-sheet6">
             <div class="">
-               <h4 class="fixed-notification fade-out">Menu4 <i class="material-icons dp48 modal-close"><a class="black-text">close</a></i></h4>
+               <h4 class="fixed-notification fade-out">Menu4 <i class="material-icons dp48 modal-close"><a class="white-text">close</a></i></h4>
                <div class="section" style="background: #fff;">
                   <div class="row">
                      <div class="col s12 m12 l12">
@@ -1036,65 +1034,65 @@
                               </div>
                               <div class="collapsible-body grey-text category-body">
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Motorbike.jpg" width="50">
+                                          <img src="Himages/Motorbike.jpg" width="50">
                                           Motorbike Accessories & Parts 
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Electronics.jpg" width="50">
+                                          <img src="Himages/Car-Electronics.jpg" width="50">
                                           Car Electronics 
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Janitorial-Sanitation.jpg" width="50">
+                                          <img src="Himages/Janitorial-Sanitation.jpg" width="50">
                                           Janitorial & Sanitation 
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Motorbike.jpg" width="50">
+                                          <img src="Himages/Motorbike.jpg" width="50">
                                           Motorbike Accessories & Parts
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Electronics.jpg" width="50">
+                                          <img src="Himages/Car-Electronics.jpg" width="50">
                                           Car Electronics 
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Janitorial-Sanitation.jpg" width="50">
+                                          <img src="Himages/Janitorial-Sanitation.jpg" width="50">
                                           Janitorial & Sanitation 
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Motorbike.jpg" width="50">
+                                          <img src="Himages/Motorbike.jpg" width="50">
                                           Motorbike Accessories & Parts
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Motorbike.jpg" width="50">
+                                          <img src="Himages/Motorbike.jpg" width="50">
                                           Motorbike Accessories & Parts
                                        </div>
                                     </a>
@@ -1108,41 +1106,41 @@
                               </div>
                               <div class="collapsible-body grey-text category-body">
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Part.jpg" width="50">
+                                          <img src="Himages/Car-Part.jpg" width="50">
                                           Car Parts
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Accessories.jpg" width="50">
+                                          <img src="Himages/Car-Accessories.jpg" width="50">
                                           Car Accessories
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Part.jpg" width="50">
+                                          <img src="Himages/Car-Part.jpg" width="50">
                                           Car Parts
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Accessories.jpg" width="50">
+                                          <img src="Himages/Car-Accessories.jpg" width="50">
                                           Car Accessories
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Accessories.jpg" width="50">
+                                          <img src="Himages/Car-Accessories.jpg" width="50">
                                           Car Accessories
                                        </div>
                                     </a>
@@ -1156,41 +1154,41 @@
                               </div>
                               <div class="collapsible-body grey-text category-body">
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Motorbike-Care.jpg" width="50">
+                                          <img src="Himages/Car-Motorbike-Care.jpg" width="50">
                                           Car & Motorbike Care 
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Test-Measure-Inspect.jpg" width="50">
+                                          <img src="Himages/Test-Measure-Inspect.jpg" width="50">
                                           Test, Measure & Inspect 
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Motorbike-Care.jpg" width="50">
+                                          <img src="Himages/Car-Motorbike-Care.jpg" width="50">
                                           Car & Motorbike Care 
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Test-Measure-Inspect.jpg" width="50">
+                                          <img src="Himages/Test-Measure-Inspect.jpg" width="50">
                                           Test, Measure & Inspect
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Motorbike-Care.jpg" width="50">
+                                          <img src="Himages/Car-Motorbike-Care.jpg" width="50">
                                           Car & Motorbike Care 
                                        </div>
                                     </a>
@@ -1206,7 +1204,7 @@
          <!-- Modal Structure -->
          <div class="fadeInRight top-sheet7">
             <div class="">
-               <h4 class="fixed-notification fade-out">Menu5 <i class="material-icons dp48 modal-close"><a class="black-text">close</a></i></h4>
+               <h4 class="fixed-notification fade-out">Menu5 <i class="material-icons dp48 modal-close"><a class="white-text">close</a></i></h4>
                <div class="section" style="background: #fff;">
                   <div class="row">
                      <div class="col s12 m12 l12">
@@ -1218,65 +1216,65 @@
                               </div>
                               <div class="collapsible-body grey-text category-body">
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Motorbike.jpg" width="50">
+                                          <img src="Himages/Motorbike.jpg" width="50">
                                           Motorbike Accessories & Parts
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Motorbike.jpg" width="50">
+                                          <img src="Himages/Motorbike.jpg" width="50">
                                           Motorbike Accessories & Parts
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Motorbike.jpg" width="50">
+                                          <img src="Himages/Motorbike.jpg" width="50">
                                           Motorbike Accessories & Parts
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Motorbike.jpg" width="50">
+                                          <img src="Himages/Motorbike.jpg" width="50">
                                           Motorbike Accessories & Parts
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Motorbike.jpg" width="50">
+                                          <img src="Himages/Motorbike.jpg" width="50">
                                           Motorbike Accessories & Parts
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Motorbike.jpg" width="50">
+                                          <img src="Himages/Motorbike.jpg" width="50">
                                           Motorbike Accessories & Parts
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Motorbike.jpg" width="50">
+                                          <img src="Himages/Motorbike.jpg" width="50">
                                           Motorbike Accessories & Parts
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Motorbike.jpg" width="50">
+                                          <img src="Himages/Motorbike.jpg" width="50">
                                           Motorbike Accessories & Parts
                                        </div>
                                     </a>
@@ -1290,41 +1288,41 @@
                               </div>
                               <div class="collapsible-body grey-text category-body">
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Part.jpg" width="50">
+                                          <img src="Himages/Car-Part.jpg" width="50">
                                           Car Parts
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Accessories.jpg" width="50">
+                                          <img src="Himages/Car-Accessories.jpg" width="50">
                                           Car Accessories
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Part.jpg" width="50">
+                                          <img src="Himages/Car-Part.jpg" width="50">
                                           Car Parts
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Accessories.jpg" width="50">
+                                          <img src="Himages/Car-Accessories.jpg" width="50">
                                           Car Accessories
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Accessories.jpg" width="50">
+                                          <img src="Himages/Car-Accessories.jpg" width="50">
                                           Car Accessories
                                        </div>
                                     </a>
@@ -1338,41 +1336,41 @@
                               </div>
                               <div class="collapsible-body grey-text category-body">
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Motorbike-Care.jpg" width="50">
+                                          <img src="Himages/Car-Motorbike-Care.jpg" width="50">
                                           Car & Motorbike Care 
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Test-Measure-Inspect.jpg" width="50">
+                                          <img src="Himages/Test-Measure-Inspect.jpg" width="50">
                                           Test, Measure & Inspect 
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Motorbike-Care.jpg" width="50">
+                                          <img src="Himages/Car-Motorbike-Care.jpg" width="50">
                                           Car & Motorbike Care 
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Test-Measure-Inspect.jpg" width="50">
+                                          <img src="Himages/Test-Measure-Inspect.jpg" width="50">
                                           Test, Measure & Inspect
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect ">
-                                          <img src="/app-design-new/images/Car-Motorbike-Care.jpg" width="50">
+                                          <img src="Himages/Car-Motorbike-Care.jpg" width="50">
                                           Car & Motorbike Care 
                                        </div>
                                     </a>
@@ -1388,7 +1386,7 @@
          <!-- Modal Structure -->
          <div class="fadeInRight top-sheet8">
             <div class="">
-               <h4 class="fixed-notification fade-out">Menu6 <i class="material-icons dp48 modal-close"><a class="black-text">close</a></i></h4>
+               <h4 class="fixed-notification fade-out">Menu6 <i class="material-icons dp48 modal-close"><a class="white-text">close</a></i></h4>
                <div class="section" style="background: #fff;">
                   <div class="row">
                      <div class="col s12 m12 l12">
@@ -1400,65 +1398,65 @@
                               </div>
                               <div class="collapsible-body grey-text category-body">
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Motorbike.jpg" width="50">
+                                          <img src="Himages/Motorbike.jpg" width="50">
                                           Motorbike Accessories & Parts
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Motorbike.jpg" width="50">
+                                          <img src="Himages/Motorbike.jpg" width="50">
                                           Motorbike Accessories & Parts
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Motorbike.jpg" width="50">
+                                          <img src="Himages/Motorbike.jpg" width="50">
                                           Motorbike Accessories & Parts
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Motorbike.jpg" width="50">
+                                          <img src="Himages/Motorbike.jpg" width="50">
                                           Motorbike Accessories & Parts
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Motorbike.jpg" width="50">
+                                          <img src="Himages/Motorbike.jpg" width="50">
                                           Motorbike Accessories & Parts
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Motorbike.jpg" width="50">
+                                          <img src="Himages/Motorbike.jpg" width="50">
                                           Motorbike Accessories & Parts
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Motorbike.jpg" width="50">
+                                          <img src="Himages/Motorbike.jpg" width="50">
                                           Motorbike Accessories & Parts
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Motorbike.jpg" width="50">
+                                          <img src="Himages/Motorbike.jpg" width="50">
                                           Motorbike Accessories & Parts
                                        </div>
                                     </a>
@@ -1472,41 +1470,41 @@
                               </div>
                               <div class="collapsible-body grey-text category-body">
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Part.jpg" width="50">
+                                          <img src="Himages/Car-Part.jpg" width="50">
                                           Car Parts
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Accessories.jpg" width="50">
+                                          <img src="Himages/Car-Accessories.jpg" width="50">
                                           Car Accessories
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Part.jpg" width="50">
+                                          <img src="Himages/Car-Part.jpg" width="50">
                                           Car Parts
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Accessories.jpg" width="50">
+                                          <img src="Himages/Car-Accessories.jpg" width="50">
                                           Car Accessories
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Accessories.jpg" width="50">
+                                          <img src="Himages/Car-Accessories.jpg" width="50">
                                           Car Accessories
                                        </div>
                                     </a>
@@ -1520,41 +1518,41 @@
                               </div>
                               <div class="collapsible-body grey-text category-body">
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Motorbike-Care.jpg" width="50">
+                                          <img src="Himages/Car-Motorbike-Care.jpg" width="50">
                                           Car & Motorbike Care 
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Test-Measure-Inspect.jpg" width="50">
+                                          <img src="Himages/Test-Measure-Inspect.jpg" width="50">
                                           Test, Measure & Inspect 
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Motorbike-Care.jpg" width="50">
+                                          <img src="Himages/Car-Motorbike-Care.jpg" width="50">
                                           Car & Motorbike Care 
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Test-Measure-Inspect.jpg" width="50">
+                                          <img src="Himages/Test-Measure-Inspect.jpg" width="50">
                                           Test, Measure & Inspect
                                        </div>
                                     </a>
                                  </div>
                                  <div class="col s6 m6 l6">
-                                    <a href="/app-design-new/home.php" class="black-text">
+                                    <a href="Hhome.php" class="black-text">
                                        <div class="category-flex waves-effect">
-                                          <img src="/app-design-new/images/Car-Motorbike-Care.jpg" width="50">
+                                          <img src="images/Car-Motorbike-Care.jpg" width="50">
                                           Car & Motorbike Care 
                                        </div>
                                     </a>
